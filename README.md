@@ -1,11 +1,11 @@
-# Port Boilerplate
+# Port Elasticsearch
 
-[![Latest Version](https://img.shields.io/github/release/portphp/boilerplate.svg?style=flat-square)](https://github.com/portphp/boilerplate/releases)
-[![Build Status](https://travis-ci.org/portphp/boilerplate.svg)](https://travis-ci.org/portphp/boilerplate)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/portphp/boilerplate/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/portphp/boilerplate/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/portphp/boilerplate/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/portphp/boilerplate/?branch=master)
+[![Latest Version](https://img.shields.io/github/release/portphp/elasticsearch.svg?style=flat-square)](https://github.com/portphp/elasticsearch/releases)
+[![Build Status](https://travis-ci.org/portphp/elasticsearch.svg)](https://travis-ci.org/portphp/elasticsearch)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/portphp/elasticsearch/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/portphp/elasticsearch/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/portphp/elasticsearch/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/portphp/elasticsearch/?branch=master)
 
-Boilerplate is a package skeleton for PortPHP packages.
+Elasticsearch implementation for PortPHP.
 
 ## Installation
 
@@ -13,7 +13,7 @@ Open a command console, enter your project directory and execute the
 following command to download the latest stable version of this package:
 
 ```bash
-$ composer require portphp/boilerplate
+$ composer require portphp/elasticsearch
 ```
 
 This command requires you to have Composer installed globally, as explained
@@ -31,7 +31,7 @@ Please report issues and request features at https://github.com/portphp/portphp/
 ## Contributing
 
 Contributions are very welcome. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for
-details. Thanks to [everyone who has contributed](https://github.com/portphp/boilerplate/graphs/contributors)
+details. Thanks to [everyone who has contributed](https://github.com/portphp/elasticsearch/graphs/contributors)
 already.
 
 ## Security
