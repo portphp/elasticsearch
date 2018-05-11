@@ -1,0 +1,5 @@
+suites:
+  library_suite:
+    namespace: Port\Elasticsearch
+    psr4_prefix: Port\Elasticsearch
+formatter.name: pretty
